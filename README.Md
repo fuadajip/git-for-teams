@@ -1,4 +1,4 @@
-# Git fot Teams
+# Git for Teams
 This repository will tell and explain how to make your daily code activity using version control system more efficient and clean.
 
 ## Prerequisites
