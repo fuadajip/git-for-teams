@@ -61,3 +61,7 @@ To do this, replace pick with s for all but the top commit. s is shorthand for s
     git branch -d jc_feature_name
 
 ```
+
+
+## Notes
+For more complex and successful Git branch model you can read carefully this article written by [Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/)
